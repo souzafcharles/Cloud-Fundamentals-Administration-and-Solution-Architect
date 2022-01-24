@@ -11,7 +11,7 @@
 ## Chapters Hands On Schedule:
 :open_file_folder: Chapter 4 - [Amazon Web Services (AWS)](https://github.com/souzafcharles/Cloud-Fundamentals-Administration-and-Solution-Architect/tree/master/Chapter-04-Amazon-Web-Services-AWS)
 
-:open_file_folder: Chapter 5 - Azure
+:open_file_folder: Chapter 5 - [Azure](https://github.com/souzafcharles/Cloud-Fundamentals-Administration-and-Solution-Architect/tree/master/Chapter-05-Azure)
 
 :open_file_folder: Chapter 6 - Google Cloud Platform (GCP)
 
